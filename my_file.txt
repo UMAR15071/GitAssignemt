@@ -4,3 +4,4 @@ bar
 John Doe
 FooBar
 feature-abc
+some editing
