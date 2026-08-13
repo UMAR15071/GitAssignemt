@@ -1,0 +1,5 @@
+Hi this is practice for git
+foo
+bar
+John Doe
+FooBar
