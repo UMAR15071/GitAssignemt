@@ -3,4 +3,4 @@ foo
 bar
 John Doe
 FooBar
-feature-x
+feature-xyz
